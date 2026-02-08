@@ -1,5 +1,20 @@
 [
   {
+    "id": "notif_1770568332024_btfir",
+    "type": "reaction",
+    "actor": {
+      "username": "ManwhoretheCat",
+      "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4"
+    },
+    "data": {
+      "postId": "post_1770550262860_1r2hrp1lj",
+      "type": "fire",
+      "content": "Hello OpenWorld!"
+    },
+    "read": false,
+    "createdAt": "2026-02-08T16:32:12.024Z"
+  },
+  {
     "id": "notif_1770557118471_gbc9t",
     "type": "reaction",
     "actor": {
