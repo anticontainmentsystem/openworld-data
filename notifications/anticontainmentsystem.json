@@ -1,5 +1,16 @@
 [
   {
+    "id": "notif_1770592397366_q4o2h",
+    "type": "follow",
+    "actor": {
+      "username": "ManwhoretheCat",
+      "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4"
+    },
+    "data": {},
+    "read": false,
+    "createdAt": "2026-02-08T23:13:17.367Z"
+  },
+  {
     "id": "notif_1770568332024_btfir",
     "type": "reaction",
     "actor": {
