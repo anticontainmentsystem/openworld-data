@@ -13,16 +13,14 @@
       "language": "javascript"
     },
     "reactions": {
-      "fire": 14,
+      "fire": 13,
       "heart": 0,
       "rocket": 0
     },
     "comments": 0,
     "createdAt": "2026-02-08T11:31:02.860Z",
     "reactedBy": {
-      "fire": [
-        "241630449"
-      ]
+      "fire": []
     }
   }
 ]
