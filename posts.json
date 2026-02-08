@@ -13,7 +13,7 @@
       "language": "javascript"
     },
     "reactions": {
-      "fire": 1,
+      "fire": 2,
       "heart": 0,
       "rocket": 0
     },
