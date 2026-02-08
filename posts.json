@@ -13,7 +13,7 @@
       "language": "javascript"
     },
     "reactions": {
-      "fire": 14,
+      "fire": 15,
       "heart": 0,
       "rocket": 0
     },
@@ -21,7 +21,8 @@
     "createdAt": "2026-02-08T11:31:02.860Z",
     "reactedBy": {
       "fire": [
-        "189585210"
+        "189585210",
+        "241630449"
       ]
     }
   }
