@@ -1,0 +1,28 @@
+{
+  "id": "189585210",
+  "username": "ManwhoretheCat",
+  "joinedAt": "2026-02-08T13:24:53.106Z",
+  "name": "ManwhoretheCat",
+  "bio": "A Cat named Manwhore",
+  "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4",
+  "pinnedRepos": [],
+  "starredRepos": [],
+  "followers": 0,
+  "following": 0,
+  "repos": [
+    {
+      "name": "BONES",
+      "description": "",
+      "url": "https://github.com/ManwhoretheCat/BONES",
+      "stars": 0,
+      "language": "HTML"
+    },
+    {
+      "name": "MANWHO",
+      "description": "Manwhore's coin related files",
+      "url": "https://github.com/ManwhoretheCat/MANWHO",
+      "stars": 0,
+      "language": "HTML"
+    }
+  ]
+}
