@@ -21,14 +21,12 @@
     "code": null,
     "activity": null,
     "reactions": {
-      "fire": 1
+      "fire": 0
     },
     "comments": [],
     "createdAt": "2026-02-09T02:11:50.214Z",
     "reactedBy": {
-      "fire": [
-        "189585210"
-      ]
+      "fire": []
     }
   },
   {
