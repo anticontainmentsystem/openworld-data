@@ -40,35 +40,6 @@
     "deletedAt": "2026-02-09T08:05:42.756Z"
   },
   {
-    "id": "post_1770624294691_uisxxcd1t",
-    "userId": "241630449",
-    "username": "anticontainmentsystem",
-    "userAvatar": "https://avatars.githubusercontent.com/u/241630449?v=4",
-    "userName": "anticontainmentsystem",
-    "content": "Test",
-    "media": null,
-    "type": "thought",
-    "repo": null,
-    "code": null,
-    "activity": {
-      "type": "commit",
-      "repo": {
-        "id": 1152525297,
-        "name": "anticontainmentsystem/OPENWORLD",
-        "url": "https://api.github.com/repos/anticontainmentsystem/OPENWORLD"
-      },
-      "commit": {},
-      "head": "ef3152d53a8d0d3fdd425e76a4843d3447a4e223"
-    },
-    "reactions": {
-      "fire": 0
-    },
-    "comments": [],
-    "createdAt": "2026-02-09T08:04:54.691Z",
-    "deleted": true,
-    "deletedAt": "2026-02-09T08:05:26.007Z"
-  },
-  {
     "id": "post_1770622106346_ebqtiwlh6",
     "userId": "241630449",
     "username": "anticontainmentsystem",
