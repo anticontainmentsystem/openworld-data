@@ -15,7 +15,9 @@
       "fire": 0
     },
     "comments": [],
-    "createdAt": "2026-02-09T09:29:39.875Z"
+    "createdAt": "2026-02-09T09:29:39.875Z",
+    "deleted": true,
+    "deletedAt": "2026-02-09T09:29:48.542Z"
   },
   {
     "id": "post_1770603110214_rzc830vfd",
