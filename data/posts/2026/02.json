@@ -138,26 +138,6 @@
     "deletedAt": "2026-02-09T08:05:53.367Z"
   },
   {
-    "id": "post_1770624275569_mp0sg33jq",
-    "userId": "241630449",
-    "username": "anticontainmentsystem",
-    "userAvatar": "https://avatars.githubusercontent.com/u/241630449?v=4",
-    "userName": "anticontainmentsystem",
-    "content": "test",
-    "media": null,
-    "type": "thought",
-    "repo": null,
-    "code": null,
-    "activity": null,
-    "reactions": {
-      "fire": 0
-    },
-    "comments": [],
-    "createdAt": "2026-02-09T08:04:35.585Z",
-    "deleted": true,
-    "deletedAt": "2026-02-09T08:05:10.381Z"
-  },
-  {
     "id": "post_1770622106346_ebqtiwlh6",
     "userId": "241630449",
     "username": "anticontainmentsystem",
