@@ -1,5 +1,23 @@
 [
   {
+    "id": "post_1770676173730_6sr9fie2e",
+    "userId": "189585210",
+    "username": "ManwhoretheCat",
+    "userAvatar": "https://avatars.githubusercontent.com/u/189585210?v=4",
+    "userName": "ManwhoretheCat",
+    "content": "Hello via API",
+    "media": null,
+    "type": "thought",
+    "repo": null,
+    "code": null,
+    "activity": null,
+    "reactions": {
+      "fire": 0
+    },
+    "comments": [],
+    "createdAt": "2026-02-09T22:29:33.730Z"
+  },
+  {
     "id": "post_1770642964336_wjjamu44x",
     "userId": "241630449",
     "username": "anticontainmentsystem",
