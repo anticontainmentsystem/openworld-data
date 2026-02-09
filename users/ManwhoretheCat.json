@@ -8,7 +8,7 @@
   "pinnedRepos": [],
   "starredRepos": [],
   "followers": 1,
-  "following": 0,
+  "following": 1,
   "repos": [
     {
       "name": "BONES",
@@ -25,7 +25,9 @@
       "language": "HTML"
     }
   ],
-  "followingList": [],
+  "followingList": [
+    "anticontainmentsystem"
+  ],
   "followersList": [
     "anticontainmentsystem"
   ]
