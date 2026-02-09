@@ -20,26 +20,6 @@
     "deletedAt": "2026-02-09T08:34:40.007Z"
   },
   {
-    "id": "post_1770624300235_1nw7tswq6",
-    "userId": "241630449",
-    "username": "anticontainmentsystem",
-    "userAvatar": "https://avatars.githubusercontent.com/u/241630449?v=4",
-    "userName": "anticontainmentsystem",
-    "content": "Test",
-    "media": null,
-    "type": "thought",
-    "repo": null,
-    "code": null,
-    "activity": null,
-    "reactions": {
-      "fire": 0
-    },
-    "comments": [],
-    "createdAt": "2026-02-09T08:05:00.235Z",
-    "deleted": true,
-    "deletedAt": "2026-02-09T08:05:42.756Z"
-  },
-  {
     "id": "post_1770622106346_ebqtiwlh6",
     "userId": "241630449",
     "username": "anticontainmentsystem",
