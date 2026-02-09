@@ -42,7 +42,9 @@
       "fire": 0
     },
     "comments": [],
-    "createdAt": "2026-02-09T07:26:47.353Z"
+    "createdAt": "2026-02-09T07:26:47.353Z",
+    "deleted": true,
+    "deletedAt": "2026-02-09T08:04:23.802Z"
   },
   {
     "id": "post_1770603110214_rzc830vfd",
