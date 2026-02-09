@@ -7,7 +7,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4"
     },
     "data": {},
-    "read": false,
+    "read": true,
     "createdAt": "2026-02-09T00:38:14.801Z"
   },
   {
@@ -18,7 +18,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4"
     },
     "data": {},
-    "read": false,
+    "read": true,
     "createdAt": "2026-02-08T23:13:17.367Z"
   },
   {
@@ -33,7 +33,7 @@
       "type": "fire",
       "content": "Hello OpenWorld!"
     },
-    "read": false,
+    "read": true,
     "createdAt": "2026-02-08T16:32:12.024Z"
   },
   {
@@ -48,7 +48,7 @@
       "type": "fire",
       "content": "Hello OpenWorld!"
     },
-    "read": false,
+    "read": true,
     "createdAt": "2026-02-08T13:25:18.475Z"
   }
 ]
