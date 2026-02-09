@@ -123,7 +123,9 @@
       "fire": 0
     },
     "comments": [],
-    "createdAt": "2026-02-09T08:04:35.585Z"
+    "createdAt": "2026-02-09T08:04:35.585Z",
+    "deleted": true,
+    "deletedAt": "2026-02-09T08:05:10.381Z"
   },
   {
     "id": "post_1770622106346_ebqtiwlh6",
