@@ -3,7 +3,7 @@
   "username": "anticontainmentsystem",
   "name": "anticontainmentsystem",
   "avatar": "https://avatars.githubusercontent.com/u/241630449?v=4",
-  "bio": null,
+  "bio": "NTT",
   "location": null,
   "joinedAt": "2025-11-02T18:29:40Z",
   "followers": 1,
@@ -15,5 +15,21 @@
     "ManwhoretheCat"
   ],
   "pinnedRepos": [],
-  "starredRepos": []
+  "starredRepos": [],
+  "repos": [
+    {
+      "name": "openworld-data",
+      "description": "",
+      "url": "https://github.com/anticontainmentsystem/openworld-data",
+      "stars": 0,
+      "language": "Unknown"
+    },
+    {
+      "name": "OPENWORLD",
+      "description": "",
+      "url": "https://github.com/anticontainmentsystem/OPENWORLD",
+      "stars": 0,
+      "language": "JavaScript"
+    }
+  ]
 }
