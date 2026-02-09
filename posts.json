@@ -21,10 +21,15 @@
     "code": null,
     "activity": null,
     "reactions": {
-      "fire": 0
+      "fire": 1
     },
     "comments": [],
-    "createdAt": "2026-02-09T02:11:50.214Z"
+    "createdAt": "2026-02-09T02:11:50.214Z",
+    "reactedBy": {
+      "fire": [
+        "189585210"
+      ]
+    }
   },
   {
     "id": "post_1770550262860_1r2hrp1lj",
