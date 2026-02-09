@@ -1,5 +1,16 @@
 [
   {
+    "id": "notif_1770598842738_5uk5x",
+    "type": "follow",
+    "actor": {
+      "username": "anticontainmentsystem",
+      "avatar": "https://avatars.githubusercontent.com/u/241630449?v=4"
+    },
+    "data": {},
+    "read": false,
+    "createdAt": "2026-02-09T01:00:42.739Z"
+  },
+  {
     "id": "notif_1770597119839_t89kb",
     "type": "follow",
     "actor": {
