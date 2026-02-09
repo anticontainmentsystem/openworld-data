@@ -6,9 +6,11 @@
   "bio": "NTT",
   "location": null,
   "joinedAt": "2025-11-02T18:29:40Z",
-  "followers": 0,
+  "followers": 1,
   "following": 1,
-  "followersList": [],
+  "followersList": [
+    "ManwhoretheCat"
+  ],
   "followingList": [
     "ManwhoretheCat"
   ],
