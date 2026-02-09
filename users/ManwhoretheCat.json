@@ -7,7 +7,7 @@
   "avatar": "https://avatars.githubusercontent.com/u/189585210?v=4",
   "pinnedRepos": [],
   "starredRepos": [],
-  "followers": 0,
+  "followers": 1,
   "following": 1,
   "repos": [
     {
@@ -28,5 +28,7 @@
   "followingList": [
     "anticontainmentsystem"
   ],
-  "followersList": []
+  "followersList": [
+    "anticontainmentsystem"
+  ]
 }
